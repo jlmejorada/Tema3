@@ -1,4 +1,4 @@
-package ejerciciosfunciones.ejercicio2;
+package ejerciciosfunciones.ejercicio02;
 
 public class Numeros {
 	public static void entre (int num1, int num2) {

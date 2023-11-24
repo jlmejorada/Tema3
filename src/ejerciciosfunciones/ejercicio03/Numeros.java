@@ -1,4 +1,4 @@
-package ejerciciosfunciones.ejercicio3;
+package ejerciciosfunciones.ejercicio03;
 
 public class Numeros {
 	public static int mayor(int num1, int num2) {

@@ -1,4 +1,4 @@
-package ejerciciosfunciones.ejercicio5;
+package ejerciciosfunciones.ejercicio05;
 
 public class Numero {
 	public static void mul (int num) {

@@ -1,4 +1,4 @@
-package ejerciciosfunciones.ejercicio4;
+package ejerciciosfunciones.ejercicio04;
 
 public class Palabra {
 

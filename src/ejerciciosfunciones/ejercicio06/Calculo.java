@@ -1,4 +1,4 @@
-package ejerciciosfunciones.ejercicio6;
+package ejerciciosfunciones.ejercicio06;
 
 public class Calculo {
 
