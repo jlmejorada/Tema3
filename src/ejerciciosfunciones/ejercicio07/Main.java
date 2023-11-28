@@ -30,6 +30,11 @@ public class Main {
 		//Llamamos a la función 
 		esPrimo=Numero.primo(num);
 		
+		//Vemos si es true o false y pasamos un mensaje en consecuencia
+		if (esPrimo) {
+			System.out.println("El número es primo");
+		} else System.out.println("El número no es primo");
+		
 		//Cerramos el escaner
 		sc.close();
 
