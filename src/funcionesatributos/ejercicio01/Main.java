@@ -21,7 +21,7 @@ public class Main {
 		num2=pideNumero();
 		//Asignamos los números al operador
 		op = new Operaciones(num1,num2);
-		//Creamos un switch que mire la opción elegida y llame a la función correcspondiente
+		//Creamos un switch que mire la opción elegida (a traves de la opción del menú) y llame a la función correcspondiente
 		switch (opc) {
 		case 1->{
 			System.out.println(op.suma());
