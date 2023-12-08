@@ -82,7 +82,7 @@ public class Main {
 		do {
 			// Comprobamos que el tipo introducido es el correcto
 			try {
-				// Pedimos la opción
+				// Pedimos el radio
 				System.out.println("Dame el radio, tiene que ser mayor que 0");
 				radio = sc.nextInt();
 				// Si nos sale error
