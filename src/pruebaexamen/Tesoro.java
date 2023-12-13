@@ -4,7 +4,7 @@ import java.util.Random;
 
 public class Tesoro {
 	// Creamos una constante que almacenará el tamaño de la cuadrícula
-	static final int TAM_TABLERO = 5;
+	static final int TAM_TABLERO = 10;
 
 	// Creamos dos atributos que se corresponderan con las coordenadas en las que se
 	// encuentra el tesoro escondido.
