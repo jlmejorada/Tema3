@@ -37,7 +37,6 @@ public class Main {
 		// Cerramos el escaner
 		sc.close();
 	}
-
 	// Creamos una función que mostrara un menú por pantalla y devuelve la opción
 	// elegida por el usuario
 	public static int menu() {
